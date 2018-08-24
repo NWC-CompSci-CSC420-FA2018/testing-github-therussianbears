@@ -1,5 +1,2 @@
 Hello world
 Hello
-
-Who's up for making a cross-country running game?
-Line 5
