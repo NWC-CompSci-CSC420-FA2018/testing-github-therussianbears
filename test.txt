@@ -30,9 +30,6 @@ Cole{
 Josh{
  Person Jaaz - new Person();
  Jaaz.getSnapchat();
-=======
-Josh Z.{
-
 
 }
 
