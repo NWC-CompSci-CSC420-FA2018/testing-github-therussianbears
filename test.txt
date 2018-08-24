@@ -21,6 +21,21 @@ In this small college, was a spectacular Computer Science department, which had 
 
 }
 
+Mark{
+This is my method
+It's going to be really long
+and include an if statement
+if(true)
+{
+this will happen
+For sure
+}
+else
+{
+this won't happen
+It never will
+}
+}
 
 Cole{
 	aliases: The OGRussianBear, Grandmaster
@@ -36,4 +51,3 @@ Josh{
  Jaaz.getSnapchat();
 
 }
-
