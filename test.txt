@@ -1,3 +1,33 @@
-Hello world
+Jordan{
 
+
+}
+
+
+Kennedy{
+
+Test
+}
+
+
+Jaaziel{
+Hi Mark!
+
+
+}
+
+
+Cole{
+
+
+
+}
+
+
+
+Josh{
+ Person Jaaz = new Person();
+ Jaaz.getSnapchat();
+
+}
 
