@@ -12,8 +12,10 @@ Hello everyone!
 }
 
 
-Jaaziel{
+Jaaz{
 Hi Mark!
+While we wait, I'll tell a little story:
+Once upon a time there was a small town in a State called Iowa.
 
 
 }
