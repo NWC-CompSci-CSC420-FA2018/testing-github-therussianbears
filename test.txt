@@ -6,12 +6,12 @@ Jordan{
 
 Kennedy{
 
-
+Test
 }
 
 
 Jaaziel{
-
+Hi Mark!
 
 
 }
