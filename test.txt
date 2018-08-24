@@ -14,6 +14,7 @@ Jaaz{
 Hi Mark!
 While we wait, I'll tell a little story:
 Once upon a time there was a small town in a State called Iowa.
+In this small town was a small college that went by the name of Northwestern College.
 
 
 }
@@ -25,7 +26,6 @@ Cole{
 	Dislikes: Blue Cheese, Commies, nuubs who don't get pwned
 	2nd changes test
 }
-
 
 
 
