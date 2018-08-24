@@ -1,17 +1,21 @@
 Jordan{
-
+Hello
 
 }
 
 
 Kennedy{
 
+Test
 
+Hello everyone!
 }
 
 
-Jaaziel{
-
+Jaaz{
+Hi Mark!
+While we wait, I'll tell a little story:
+Once upon a time there was a small town in a State called Iowa.
 
 
 }
@@ -33,15 +37,17 @@ It never will
 }
 
 Cole{
-
-
-
+	aliases: The OGRussianBear, Grandmaster
+	Likes: Swiss Cheese, Freedom, pwning nuubs
+	Dislikes: Blue Cheese, Commies, nuubs who don't get pwned
+	2nd changes test
 }
+
 
 
 
 Josh{
-
+ Person Jaaz - new Person();
+ Jaaz.getSnapchat();
 
 }
-
