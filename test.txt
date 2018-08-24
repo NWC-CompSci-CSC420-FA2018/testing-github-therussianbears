@@ -10,7 +10,7 @@ Test
 }
 
 
-Jaaziel{
+Jaaz{
 Hi Mark!
 
 
