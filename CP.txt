@@ -1,1 +1,5 @@
 Hi Mark! I'm adding stuff to this file.
+
+public static void main (String[] args) {
+    System.out.print("Hello Mark.\nQuick question: Why do we say \'Hello World?\'");
+}
