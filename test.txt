@@ -1,5 +1,5 @@
 Jordan{
-
+Hello
 
 }
 
@@ -25,9 +25,13 @@ Cole{
 
 
 
+<<<<<<< HEAD
 Josh{
  Person Jaaz = new Person();
  Jaaz.getSnapchat();
+=======
+Josh Z.{
+>>>>>>> d3dbb0f626fa23355aab352667f7158f64874732
 
 }
 
