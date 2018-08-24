@@ -18,9 +18,9 @@ Jaaziel{
 
 
 Cole{
-
-
-
+	aliases: The OGRussianBear, Grandmaster
+	Likes: Swiss Cheese, Freedom, pwning nuubs
+	Dislikes: Blue Cheese, Commies, nuubs who don't get pwned
 }
 
 
